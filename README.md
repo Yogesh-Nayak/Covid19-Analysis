@@ -20,14 +20,18 @@ After the data cleaning stage, data exploration and analysis were conducted usin
 <br>
 
 ## Conclusion:
-    - Through the facts and the data we had, we can say that when lockdown was removed at that time the cases started to spike again.
-    - 2020 had more covid deaths then 2021.
+    - The above analysis concludes that if testing is less then people might have a greater chance of getting covid.
+    - The recovery rate was greater as compared to the deceased rate.
+    - The percentage of fully vaccinated is less than  50%  that of partially vaccinated.
+
+    - Through the facts and the data we had, we can say that when the lockdown was removed at that time the cases started to spike again.
+    - 2020 had more covid deaths than 2021.
     - People who had health issues died more in covid 19.
     - At the End of 2020 cases were the lowest.
 <br>
 
 ## Challenges Faced:
     - During the project, there were several limitations and challenges encountered. Extracting data from JSON format might have posed a challenge, especially if it was new to the project team.
-    - SQL for analysis have required learning new skills or overcoming technical difficulties.
+    - SQL for analysis has required learning new skills or overcoming technical difficulties.
 
     
